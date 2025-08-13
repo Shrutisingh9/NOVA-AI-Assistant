@@ -18,7 +18,7 @@ Nova is a personal AI desktop assistant that responds to voice commands, execute
 
 ---
 
-### Future Phase Features (Planned)
+## Future Phase Features (Planned)
 - Email management
 - Smart reminders
 - AI chat integration
@@ -27,7 +27,7 @@ Nova is a personal AI desktop assistant that responds to voice commands, execute
   
 ----
 
-### Voice Commands Examples
+## Voice Commands Examples
 | Command | Action |
 |---------|---------|
 | "Nova, what's the weather like?" | Get weather information |
@@ -41,7 +41,7 @@ Nova is a personal AI desktop assistant that responds to voice commands, execute
 
 ---
 
-### Performance Tips
+## Performance Tips
 - Use a good quality microphone for better speech recognition
 - Keep background noise minimal
 - Speak clearly and at normal pace
